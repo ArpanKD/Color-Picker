@@ -1,0 +1,30 @@
+.colorAdd {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.colorAdd input {
+  border-radius: 5px;
+}
+
+.inputBtn {
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.colorMenu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.colorPickerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
