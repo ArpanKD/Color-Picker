@@ -7,7 +7,7 @@ const ColorList = (props) => {
   };
 
   return (
-    <div className="color-list">
+    <div className={styles.colorList}>
       {props.colors.map((color, idx) => (
         <button
           className={styles.colorBtn}
